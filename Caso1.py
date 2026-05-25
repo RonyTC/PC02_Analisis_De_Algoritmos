@@ -1,7 +1,6 @@
 # CASO 1 - BUCLE SIMPLE
 # COMPLEJIDAD: O(n)
-n = int(input("Ingrese el tamaño: "))
+n = int(input("Ingrese un número: "))
 
 for i in range(n):
-    for j in range(n):
-        print(f"({i},{j})")
+    print(i)
