@@ -1,5 +1,5 @@
-#PC02 - Análisis de Algoritmos y Estrategias de Programación en Python
-##Descripción
+PC02 - Análisis de Algoritmos y Estrategias de Programación en Python
+Descripción
 
 Este repositorio contiene el desarrollo de la práctica PC02 del curso Análisis de Algoritmos y Estrategias de Programación en Python.
 
@@ -37,7 +37,7 @@ QuickSort
 MergeSort
 
 Todos los métodos trabajan utilizando un mismo conjunto de datos y pueden seleccionarse mediante un menú interactivo.
-##Autor
+Autor
 
 Trabajo desarrollado para el curso:
 
